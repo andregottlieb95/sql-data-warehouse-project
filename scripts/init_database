@@ -1,3 +1,7 @@
+%*
+CREATING the database and shcemas. We first check if it exists, if it does we choose that, and if it does not we create the database 'DataWareHouse'.
+*%
+
 DO
 $$
 BEGIN
